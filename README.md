@@ -8,7 +8,7 @@
 ```json
 {
   "name": "seja-bem-vindo(a)-ao-meu-github", 
-  "description": "Desenvolvedora com 1 ano de experiência com o foco em aplicações web.\nLeve conhecimento em JavaScript, Node.JS e MongoDB.\nCostumo usar o FIGMA para modelar meus projetos visualmente falando!"
+  "description": "Desenvolvedora com 1 ano de experiência com o foco em aplicações web. Leve conhecimento em JavaScript, Node.JS e MongoDB.Costumo usar o FIGMA para modelar meus projetos visualmente falando!"
   "author": "Isabele C. Aragão <@isacarrd>",
   "version": "1.0.0",
   "private": false
@@ -29,6 +29,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isacarrd&theme=darcula&hide_progress=true)-->
 ##
 
+<div display=inline>
 <a href="https://github.com/isacarrd"> <img alt="gif-eu" align="right" src="https://github.com/user-attachments/assets/d1cc07e9-3f92-4f3d-952e-0cf6627a5739" width=150 height=150></a>
 <a href="https://github.com/isacarrd/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=isacarrd&theme=darcula&show_icons=true" />
@@ -36,3 +37,4 @@
 <a href="https://github.com/isacarrd/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isacarrd&theme=darcula&layout=compact&langs_count=8&card_width=150" />
 </a>
+</div>
