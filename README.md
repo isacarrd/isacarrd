@@ -34,9 +34,9 @@
 <div display=inline>
 <a href="https://github.com/isacarrd"> <img alt="gif-eu" align="right" src="https://github.com/user-attachments/assets/d1cc07e9-3f92-4f3d-952e-0cf6627a5739" width=150 height=150></a>
 <a href="https://github.com/isacarrd/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=isacarrd&theme=darcula&show_icons=true" />
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api?username=isacarrd&theme=darcula&show_icons=true" />
 </a>
 <a href="https://github.com/isacarrd/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isacarrd&theme=darcula&layout=compact&langs_count=8&card_width=150" />
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isacarrd&theme=darcula&layout=compact&langs_count=8&card_width=150" />
 </a>
 </div>
