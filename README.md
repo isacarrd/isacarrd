@@ -8,7 +8,8 @@
 ```json
 {
   "name": "seja-bem-vindo(a)-ao-meu-github", 
-  "description": "Desenvolvedora com 1 ano de experiência com o foco em aplicações web. Leve conhecimento em JavaScript, Node.JS e MongoDB.Costumo usar o FIGMA para modelar meus projetos visualmente falando!"
+  "description": "Desenvolvedora com 1 ano de experiência com o foco em aplicações web",
+  "knowledge": "Leve conhecimento em JavaScript, Node.JS e MongoDB.Costumo usar o FIGMA para modelar meus projetos."
   "author": "Isabele C. Aragão <@isacarrd>",
   "version": "1.0.0",
   "private": false
