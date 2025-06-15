@@ -9,7 +9,8 @@
 {
   "name": "seja-bem-vindo(a)-ao-meu-github", 
   "description": "Desenvolvedora com 1 ano de experiência com o foco em aplicações web",
-  "knowledge": "Leve conhecimento em JavaScript, Node.JS e MongoDB.Costumo usar o FIGMA para modelar meus projetos."
+  "advanced_knowledge": "Conhecimento avançado na base Front-End. Uso o FIGMA para modelar meus projetos.",
+  "introductory_knowledge": "Breve entendimento sobre Node.JS e MongoDB."
   "author": "Isabele C. Aragão <@isacarrd>",
   "version": "1.0.0",
   "private": false
