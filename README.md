@@ -31,6 +31,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isacarrd&theme=darcula&hide_progress=true)-->
 ##
 
+<a href="https://www.instagram.com/isaargao_?igsh=MWZjOGdjNzYwbGVudQ=="> <img alt="instagram" src="https://github.com/user-attachments/assets/04fbef18-4437-4293-8d8d-27ed6b4e1960"> </a>
+<a href="https://www.linkedin.com/in/isabele-cardoso-08727a330/?trk=opento_sprofile_topcard"> <img alt="linkedin" src="https://github.com/user-attachments/assets/a8b3d92b-571b-4799-9c66-a225fa04c451">
+ </a>
+<br>
+
 <div display=inline>
 <a href="https://github.com/isacarrd"> <img alt="gif-eu" align="right" src="https://github.com/user-attachments/assets/d1cc07e9-3f92-4f3d-952e-0cf6627a5739" width=150 height=150></a>
 <a href="https://github.com/isacarrd/github-readme-stats">
