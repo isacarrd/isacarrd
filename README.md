@@ -16,7 +16,6 @@
   "private": false
   }
 ```
-##
 
 <div>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -29,12 +28,9 @@
 
 <!--![isacarrd's GitHub stats](https://github-readme-stats.vercel.app/api?username=isacarrd&theme=darcula&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isacarrd&theme=darcula&hide_progress=true)-->
-##
-
-<a href="https://www.instagram.com/isaargao_?igsh=MWZjOGdjNzYwbGVudQ=="> <img alt="instagram" src="https://github.com/user-attachments/assets/04fbef18-4437-4293-8d8d-27ed6b4e1960"> </a>
-<a href="https://www.linkedin.com/in/isabele-cardoso-08727a330/?trk=opento_sprofile_topcard"> <img alt="linkedin" src="https://github.com/user-attachments/assets/a8b3d92b-571b-4799-9c66-a225fa04c451">
- </a>
 <br>
+<a href="https://www.instagram.com/isaargao_?igsh=MWZjOGdjNzYwbGVudQ==" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/isabele-cardoso-08727a330/?trk=opento_sprofile_topcard" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div display=inline>
 <a href="https://github.com/isacarrd"> <img alt="gif-eu" align="right" src="https://github.com/user-attachments/assets/d1cc07e9-3f92-4f3d-952e-0cf6627a5739" width=150 height=150></a>
