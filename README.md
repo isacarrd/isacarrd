@@ -7,12 +7,12 @@
 
 ```json
 {
-  "name": "seja-bem-vindo(a)-ao-meu-github", 
-  "description": "Desenvolvedora com 1 ano de experiência com o foco em aplicações web",
-  "knowledge": "HTML, CSS e JAVASCRIPT. FIGMA para prototipação.",
-  "in_development": "Estudando Node.JS e MongoDB.",
-  "author": "Isabele C. Aragão <@isacarrd>",
-  "version": "1.0.0",
+  "nome": "seja-bem-vindo(a)-ao-meu-github", 
+  "descricao": "Desenvolvedora com 1 ano de experiência com o foco em aplicações web",
+  "conhecimento": "HTML, CSS e JAVASCRIPT.",
+  "em_aprendizagem": "Node.JS e MongoDB.",
+  "autor": "Isabele C. Aragão <@isacarrd>",
+  "versao": "1.0.0",
   "private": false
   }
 ```
