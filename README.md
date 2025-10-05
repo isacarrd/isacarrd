@@ -5,17 +5,7 @@
     <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="64" height="64" />
   </div>
 
-```json
-{
-  "nome": "seja-bem-vindo(a)-ao-meu-github", 
-  "descricao": "Desenvolvedora com 1 ano de experiência com o foco em aplicações web",
-  "conhecimento": "HTML, CSS e JAVASCRIPT.",
-  "em_aprendizagem": "Node.JS e MongoDB.",
-  "autor": "Isabele C. Aragão <@isacarrd>",
-  "versao": "1.0.0",
-  "private": false
-  }
-```
+<h1> README EM MANUTENÇÃO </h1>
 
 <div>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -26,14 +16,7 @@
   <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-<!--![isacarrd's GitHub stats](https://github-readme-stats.vercel.app/api?username=isacarrd&theme=darcula&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isacarrd&theme=darcula&hide_progress=true)-->
-<br>
-<a href="https://www.instagram.com/isaargao_?igsh=MWZjOGdjNzYwbGVudQ==" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/isabele-cardoso-08727a330/?trk=opento_sprofile_topcard" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 <div display=inline>
-<a href="https://github.com/isacarrd"> <img alt="gif-eu" align="right" src="https://github.com/user-attachments/assets/d1cc07e9-3f92-4f3d-952e-0cf6627a5739" width=150 height=150></a>
 <a href="https://github.com/isacarrd/github-readme-stats">
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api?username=isacarrd&theme=darcula&show_icons=true" />
 </a>
