@@ -1,3 +1,4 @@
+<!-- Introdução -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=61452f">
 
 <div align="center">
@@ -13,13 +14,30 @@
 
 <br>
 
-<h3>⭐: Repositórios</h3>
+<!-- Sobre mim -->
+<details>
+  <summary>🏷️: Sobre mim</summary>
+
+  - 💬 Possuo um ano de experiência na área de TI, mais precisamente, no desenvolvimento web voltado para o lado do cliente (Front-End) e busco também me especializar em UI/UX. Neste momento estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera no modo on-line (2024 - 2026).
+    
+  - 📓 Atualmente tenho como objetivo aprender React e React Native para interfaces mais responsivas.
+
+  - 📍 Detenho uma comunicação direta e busco tirar minhas dúvidas de forma precisa.
+</details>
+
+<br>
+
+<!-- Meus Projetos -->
+<h3>⭐: Projetos</h3>
 <ul>
           <li>Repositório</li>
           <li>Repositório</li>
           <li>Repositório</li>
 </ul>
+
 <br>
+
+<!-- Linguagens que utilizo -->
 <h3>☕: Linguagens</h3>
 <div display="inline" >
           <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -29,14 +47,21 @@
           <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
           <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
+
 <br>
+
+<!-- Ferramentas que utilizo -->
 <h3>⚙️: Ferramentas</h3>
 <div display="inline">
+          <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
           <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)"> 
           <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
           <img alt="GIMP" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF">
 </div>
+
 <br>
+
+<!-- Minhas redes sociais -->
 <h3>🎫: Social</h3>
 <div>
           <a href="https://www.linkedin.com/in/isabele-cardoso-08727a330/?trk=opento_sprofile_topcard" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -46,9 +71,11 @@
 </div>
 <br>
 
+<!-- Estatítiscas do GitHub -->
 <div align="center">
           <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=isacarrd&theme=dark">  
           <img height=195 alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacarrd&theme=dark&hide=border">  
 </div>
 
+<!-- Gif de Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=61452f&reversal=false&section=footer">
