@@ -19,9 +19,7 @@
           <li>Repositório</li>
           <li>Repositório</li>
 </ul>
-
 <br>
-
 <h3>☕: Linguagens</h3>
 <div display="inline" >
           <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -31,7 +29,7 @@
           <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
           <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
-
+<br>
 <h3>⚙️: Ferramentas</h3>
 <div display="inline">
           <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)"> 
