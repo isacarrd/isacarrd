@@ -36,9 +36,14 @@
           <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
           <img alt="GIMP" src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF">
 </div>
-
-<img alt="" src="">
-<img alt="" src="">
+<br>
+<h3>🎫: Social</h3>
+<div>
+          <a href="https://www.linkedin.com/in/isabele-cardoso-08727a330/?trk=opento_sprofile_topcard"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+          <a href="https://www.instagram.com/isaargao_?igsh=MWZjOGdjNzYwbGVudQ==
+"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+          <a href="https://github.com/isacarrd"><img alt="Git Hub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
 <br>
 
 <div align="center">
