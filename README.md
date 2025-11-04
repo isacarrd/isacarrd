@@ -30,9 +30,7 @@
 <!-- Meus Projetos -->
 <h3>⭐: Projetos</h3>
 <ul>
-          <li><a href="https://github.com/isacarrd/travelgram">Travelgram</a></li>
-          <li>Repositório</li>
-          <li>Repositório</li>
+          <li><a href="https://github.com/isacarrd/redragon-draconic">Landing page - Redragon</a></li>
 </ul>
 
 <br>
