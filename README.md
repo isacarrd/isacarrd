@@ -31,6 +31,7 @@
 <h3>⭐: Projetos</h3>
 <ul>
           <li><a href="https://github.com/isacarrd/redragon-draconic">Landing page - Redragon</a></li>
+          <li><a href="https://github.com/isacarrd/heartOfPoets">HeartOfPoets - Projeto Pessoal</li>
 </ul>
 
 <br>
