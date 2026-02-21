@@ -73,7 +73,6 @@
 <!-- Estatítiscas do GitHub -->
 <div align="center">
           <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=isacarrd&theme=dark">  
-          <img height=195 alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacarrd&theme=dark&hide=border">  
 </div>
 
 <!-- Gif de Footer -->
