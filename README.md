@@ -64,7 +64,7 @@
 <!-- Minhas redes sociais -->
 <h3>🎫: Social</h3>
 <div>
-          <a href="https://www.linkedin.com/in/isabele-cardoso-08727a330/?trk=opento_sprofile_topcard" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+          <a href="https://www.linkedin.com/in/isabele-cardoso-arag%C3%A3o-isacarrd/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
           <a href="https://www.instagram.com/isaargao_?igsh=MWZjOGdjNzYwbGVudQ==
 " target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
           <a href="https://github.com/isacarrd" target="_blank"><img alt="Git Hub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
