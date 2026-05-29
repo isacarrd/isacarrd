@@ -32,7 +32,7 @@
 <ul>
           <li><a href="https://github.com/isacarrd/redragon-draconic">Landing page - Redragon</a></li>
           <li><a href="https://github.com/isacarrd/heartOfPoets">HeartOfPoets - Projeto Pessoal</li>
-          <li><a href="https://github.com/isacarrd/BOLencia">BOLência - Projeto Mobile TCC</a></li>
+          <li><a href="https://github.com/isacarrd/portifolioIsacarrd">Portifólio - Projeto Pessoal TCC</a></li>
 </ul>
 
 <br>
