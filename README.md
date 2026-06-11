@@ -30,9 +30,10 @@
 <!-- Meus Projetos -->
 <h3>⭐: Projetos</h3>
 <ul>
-          <li><a href="https://github.com/isacarrd/redragon-draconic">Landing page - Redragon</a></li>
-          <li><a href="https://github.com/isacarrd/heartOfPoets">HeartOfPoets - Projeto Pessoal</li>
-          <li><a href="https://github.com/isacarrd/portifolioIsacarrd">Portifólio - Projeto Pessoal TCC</a></li>
+          <li><a href="https://github.com/isacarrd/redragon-draconic">Redragon k530 Draconic</a></li>
+          <li><a href="https://github.com/isacarrd/heartOfPoets">HeartOfPoets</a></li>
+          <li> <a href="https://github.com/isacarrd/mercadinhoAragao"> Mercadinho Aragão</a></li>
+          <li><a href="https://github.com/isacarrd/portifolioIsacarrd">Portfólio</a></li>
 </ul>
 
 <br>
