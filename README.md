@@ -18,9 +18,9 @@
 <details>
   <summary>🏷️: Sobre mim</summary>
 
-  - 💬 Possuo um ano de experiência na área de TI, mais precisamente, no desenvolvimento web voltado para o lado do cliente (Front-End) e busco também me especializar em UI/UX. Neste momento estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera no modo on-line (2024 - 2026).
+  - 💬 Desenvolvedora de aplicações com o foco em ReactJS, buscando a primeira oportunidade na área. Atualmente trabalho como Frontend juntamente com UI/UX. Possuo experiência com ReactJs, responsividade, SEO e performance. E, além disso, sou graduada em Análise e Desenvolvimento de Sistemas.
     
-  - 📓 Atualmente tenho como objetivo aprender React e React Native para interfaces mais responsivas.
+  - 📓 Objetivo(s): aprender sobre web security, TypeScript e NextJS.
 
   - 📍 Detenho uma comunicação direta e busco tirar minhas dúvidas de forma precisa.
 </details>
@@ -28,7 +28,7 @@
 <br>
 
 <!-- Meus Projetos -->
-<h3>⭐: Projetos</h3>
+<h3>⭐: Projetos principais </h3>
 <ul>
           <li><a href="https://github.com/isacarrd/redragon-draconic">Redragon k530 Draconic</a></li>
           <li><a href="https://github.com/isacarrd/heartOfPoets">HeartOfPoets</a></li>
